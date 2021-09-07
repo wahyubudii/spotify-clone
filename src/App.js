@@ -39,7 +39,6 @@ function App() {
                 })
             })
         }
-        // console.log('my token: ', token);
     }, []);
 
     console.log('user', user);
